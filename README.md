@@ -1,5 +1,5 @@
 <h3>
-  Country Picker for React Native.
+  Country Picker for React Native. Forked from https://github.com/xcarpentier/react-native-country-picker-modal
 </h3>
 
 <p>
